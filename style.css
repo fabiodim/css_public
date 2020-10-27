@@ -40,7 +40,7 @@ a:link {color:white;}      /* unvisited link */
 a:visited {color:white;}  /* visited link */
 a:hover {color:orange;}  /* mouse over link */
 a:active {color:white;}  /* selected link */
-.rdot {
+rdot {
   height: 25px;
   width: 25px;
   background-color: #bbb;
