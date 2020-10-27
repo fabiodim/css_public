@@ -48,6 +48,7 @@ a:active {color:white;}  /* selected link */
   vertical-align: middle;
   border-radius: 50%;
   background: red;
+  box-shadow: #e24040 0 0px 7px 1px, inset #4c1e1e 0 -1px 9px, #ff9494 0 2px 12px;
 }
 .gdot {
   height: 25px;
@@ -57,4 +58,5 @@ a:active {color:white;}  /* selected link */
   display: inline-block;
   text-align: center;
   vertical-align: middle;
+  box-shadow: #00878f 0 0px 7px 1px, inset #460 0 -1px 9px, #7D0 0 2px 12px;
 }
